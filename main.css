@@ -1,6 +1,9 @@
 body {
-    background-image:url("EAONE_BG_4.jpg") no-repeat;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-    background-size: cover;  
+    background-image:url("EAONE_BG_4.jpg")
+	;-webkit-background-size: cover
+	;-moz-background-size: cover
+    ;background-size: cover
+	;background-repeat: no-repeat
+	;background-position: center
+	;
 }

@@ -1,8 +1,16 @@
 body {
-    background-image:url("EAONE_BG_4.jpg")
-	;-webkit-background-size: cover
-	;-moz-background-size: cover
-    ;background-size: cover
-	;background-repeat: no-repeat
+    background-image:url("EAONE_BG_background.jpg")
+    ;background-width:100%
+	;background-repeat: repeat
 	;
+}
+
+div.splash-main {
+	background-image:url("EAONE_BG_4.jpg")
+	;background-position: fixed
+	;background-repeat: no-repeat
+	;background-width:100%
+	;width:100%
+	;
+	
 }

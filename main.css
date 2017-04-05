@@ -1,9 +1,6 @@
 body {
-    background-image:url("EAONE_BG_1.jpg");
+    background-image:url("EAONE_BG_1.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
-    background-size: cover; 
-	background-repeat:no-repeat;
-	height: 100%;
-	width: 100%; 
+    background-size: cover;  
 }

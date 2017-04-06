@@ -1,15 +1,14 @@
 body {
-    background-color:white
+    background-color:navy
 	;
-	;
+	
 }
 
 div.splash-index {
-	background-image:url("EAONE_BG_3.png")
+	background-image:url("EAONE_BG_7.png")
 	;background-repeat: no-repeat
     ;width: 100%
     ;background-size: cover
-    ;min-height: 800px
-    ;background-position-y: -200px
+	;position:center
 	;
 }
